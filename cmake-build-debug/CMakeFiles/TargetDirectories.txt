@@ -1,0 +1,3 @@
+/Users/wuwenjun/Program/CDemo/cmake-build-debug/CMakeFiles/CDemo.dir
+/Users/wuwenjun/Program/CDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wuwenjun/Program/CDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
